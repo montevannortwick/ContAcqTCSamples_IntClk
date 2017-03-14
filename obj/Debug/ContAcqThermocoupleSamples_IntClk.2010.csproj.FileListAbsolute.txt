@@ -1,0 +1,27 @@
+C:\Users\Public\Documents\National Instruments\NI-DAQ\Examples\DotNET4.0\Analog In\Measure Temperature\ContAcqThermocoupleSamples_IntClk\CS\obj\Debug\ContAcqThermocoupleSamples_IntClk.2010.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\National Instruments\NI-DAQ\Examples\DotNET4.0\Analog In\Measure Temperature\ContAcqThermocoupleSamples_IntClk\CS\obj\Debug\NationalInstruments.Examples.ContAcqThermocoupleSamples_IntClk.MainForm.resources
+C:\Users\Public\Documents\National Instruments\NI-DAQ\Examples\DotNET4.0\Analog In\Measure Temperature\ContAcqThermocoupleSamples_IntClk\CS\obj\Debug\ContAcqThermocoupleSamples_IntClk.2010.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\National Instruments\NI-DAQ\Examples\DotNET4.0\Analog In\Measure Temperature\ContAcqThermocoupleSamples_IntClk\CS\bin\Debug\ContAcqThermocoupleSamples_IntClk.exe
+C:\Users\Public\Documents\National Instruments\NI-DAQ\Examples\DotNET4.0\Analog In\Measure Temperature\ContAcqThermocoupleSamples_IntClk\CS\bin\Debug\ContAcqThermocoupleSamples_IntClk.pdb
+C:\Users\Public\Documents\National Instruments\NI-DAQ\Examples\DotNET4.0\Analog In\Measure Temperature\ContAcqThermocoupleSamples_IntClk\CS\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\Public\Documents\National Instruments\NI-DAQ\Examples\DotNET4.0\Analog In\Measure Temperature\ContAcqThermocoupleSamples_IntClk\CS\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\Public\Documents\National Instruments\NI-DAQ\Examples\DotNET4.0\Analog In\Measure Temperature\ContAcqThermocoupleSamples_IntClk\CS\obj\Debug\ContAcqThermocoupleSamples_IntClk.exe
+C:\Users\Public\Documents\National Instruments\NI-DAQ\Examples\DotNET4.0\Analog In\Measure Temperature\ContAcqThermocoupleSamples_IntClk\CS\obj\Debug\ContAcqThermocoupleSamples_IntClk.pdb
+C:\Users\Public\Documents\visual studio 2012\projects\ContAcqTCSamples_IntClk\obj\Debug\ContAcqThermocoupleSamples_IntClk.exe
+C:\Users\Public\Documents\visual studio 2012\projects\ContAcqTCSamples_IntClk\obj\Debug\ContAcqThermocoupleSamples_IntClk.pdb
+C:\Users\Public\Documents\visual studio 2012\projects\ContAcqTCSamples_IntClk\bin\Debug\ContAcqThermocoupleSamples_IntClk.exe
+C:\Users\Public\Documents\visual studio 2012\projects\ContAcqTCSamples_IntClk\bin\Debug\ContAcqThermocoupleSamples_IntClk.pdb
+C:\Users\Public\Documents\visual studio 2012\projects\ContAcqTCSamples_IntClk\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\Public\Documents\visual studio 2012\projects\ContAcqTCSamples_IntClk\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\Public\Documents\visual studio 2012\projects\ContAcqTCSamples_IntClk\obj\Debug\ContAcqThermocoupleSamples_IntClk.2010.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\visual studio 2012\projects\ContAcqTCSamples_IntClk\obj\Debug\NationalInstruments.Examples.ContAcqThermocoupleSamples_IntClk.MainForm.resources
+C:\Users\Public\Documents\visual studio 2012\projects\ContAcqTCSamples_IntClk\obj\Debug\ContAcqThermocoupleSamples_IntClk.2010.csproj.GenerateResource.Cache
+S:\Users\Public\Documents\visual studio 2012\projects\ContAcqTCSamples_IntClk\obj\Debug\ContAcqThermocoupleSamples_IntClk.exe
+S:\Users\Public\Documents\visual studio 2012\projects\ContAcqTCSamples_IntClk\obj\Debug\ContAcqThermocoupleSamples_IntClk.pdb
+S:\Users\Public\Documents\visual studio 2012\projects\ContAcqTCSamples_IntClk\bin\Debug\ContAcqThermocoupleSamples_IntClk.exe
+S:\Users\Public\Documents\visual studio 2012\projects\ContAcqTCSamples_IntClk\bin\Debug\ContAcqThermocoupleSamples_IntClk.pdb
+S:\Users\Public\Documents\visual studio 2012\projects\ContAcqTCSamples_IntClk\bin\Debug\NationalInstruments.DAQmx.dll
+S:\Users\Public\Documents\visual studio 2012\projects\ContAcqTCSamples_IntClk\bin\Debug\NationalInstruments.DAQmx.xml
+S:\Users\Public\Documents\visual studio 2012\projects\ContAcqTCSamples_IntClk\obj\Debug\ContAcqThermocoupleSamples_IntClk.2010.csprojResolveAssemblyReference.cache
+S:\Users\Public\Documents\visual studio 2012\projects\ContAcqTCSamples_IntClk\obj\Debug\NationalInstruments.Examples.ContAcqThermocoupleSamples_IntClk.MainForm.resources
+S:\Users\Public\Documents\visual studio 2012\projects\ContAcqTCSamples_IntClk\obj\Debug\ContAcqThermocoupleSamples_IntClk.2010.csproj.GenerateResource.Cache

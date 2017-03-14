@@ -1,0 +1,7 @@
+C:\Users\Public\Documents\visual studio 2012\projects\ContAcqTCSamples_IntClk\bin\Release\ContAcqThermocoupleSamples_IntClk.exe
+C:\Users\Public\Documents\visual studio 2012\projects\ContAcqTCSamples_IntClk\bin\Release\NationalInstruments.DAQmx.dll
+C:\Users\Public\Documents\visual studio 2012\projects\ContAcqTCSamples_IntClk\bin\Release\NationalInstruments.DAQmx.xml
+C:\Users\Public\Documents\visual studio 2012\projects\ContAcqTCSamples_IntClk\obj\Release\NationalInstruments.Examples.ContAcqThermocoupleSamples_IntClk.MainForm.resources
+C:\Users\Public\Documents\visual studio 2012\projects\ContAcqTCSamples_IntClk\obj\Release\ContAcqThermocoupleSamples_IntClk.2010.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\visual studio 2012\projects\ContAcqTCSamples_IntClk\obj\Release\ContAcqThermocoupleSamples_IntClk.exe
+C:\Users\Public\Documents\visual studio 2012\projects\ContAcqTCSamples_IntClk\obj\Release\ContAcqThermocoupleSamples_IntClk.2010.csprojResolveAssemblyReference.cache
